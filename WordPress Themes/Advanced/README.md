@@ -2,8 +2,7 @@
 * Custom Home Page
   * Showcase Widget
   * Page Content Container
-  * Two Text Widgets
-  * Recent Posts Widget
+  * Three Widget Boxes
 * Blog
   * Supports Post Formats (Standard, Aside, Gallery, Link)
   * Each Post Format is customized
