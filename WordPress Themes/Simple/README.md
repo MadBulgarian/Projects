@@ -1,6 +1,16 @@
 ###### This is a very simple WordPress Theme
 
-# How to Use
+# Includes
+* Blog
+  * Only Standard Posts
+* Other Pages
+  * Page Content container
+  * SideBar
+* SideBar 
+  * Categories
+  * Recent Posts
+
+## How to Use
 In order to use this WordPress theme, you have to:
 1. Download this folder and all files. 
 2. Place the folder inside the "themes" folder, which is inside "wp-content" folder in your WordPress directory.
