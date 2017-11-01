@@ -6,9 +6,6 @@
 * Other Pages
   * Page Content container
   * SideBar
-* SideBar 
-  * Categories
-  * Recent Posts
 
 ## How to Use
 In order to use this WordPress theme, you have to:
