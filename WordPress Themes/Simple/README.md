@@ -7,6 +7,3 @@ In order to use this WordPress theme, you have to:
 3. Once you have moved the theme to the correct folder, go to your WordPress admin page and log in.
 4. Go to Appearance, then Themes.
 5. Find the Theme called "Simple" and click Activate.
-
-## How to add a Preview of the Theme
-Coming Soon...
