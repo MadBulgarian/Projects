@@ -1,0 +1,63 @@
+/*
+	Theme Name: PhotoGenik
+	Author: Ivan Marinov
+	Author URI: http://www.idmarinov.com
+	Description: A Photo Gallery WordPress Theme
+	Version: 1.0
+*/
+body {
+	background: #000;
+	color: #fff;
+}
+
+.flex {
+	display: -webkit-flex;
+	-webkit-flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
+	flex: 1;
+	min-width: 300px;
+}
+
+.w3-row {
+	max-width: 2024px;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+input {
+	color: #333;
+}
+
+img {
+	width: 100%;
+}
+
+header input {
+	margin-top: 15px;
+}
+
+.post {
+	padding: 20px;
+}
+
+.pic {
+	text-align: center;
+}
+
+.pic img {
+	width: 100% !important;
+	height: 100% !important;
+}
+footer {
+	text-align: center;
+	margin-top: 40px;
+	border-top: 1px solid #333;
+}
+
