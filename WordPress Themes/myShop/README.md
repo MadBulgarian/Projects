@@ -23,4 +23,4 @@ In order to use this WordPress theme, you have to:
 3. Once you have moved the theme to the correct folder, go to your WordPress admin page and log in.
 4. Go to Appearance, then Themes.
 5. Find the Theme called "myShop" and click Activate.
-6. Paste the file inside my plugins folder inside your plugins folder (found in wp-content)
+6. Copy and Paste the folder "showcase-widget" inside your plugins folder (found in wp-content)
