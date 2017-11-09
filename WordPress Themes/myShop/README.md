@@ -11,7 +11,11 @@
   * Gallery
   * SideBar
   * Tags
-
+  
+ ![Screenshot](screenshot.png)
+ 
+ ![Product](single.png)
+ 
 ## How to Use
 In order to use this WordPress theme, you have to:
 1. Download this folder and all files. 
