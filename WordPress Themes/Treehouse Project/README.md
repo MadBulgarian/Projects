@@ -15,3 +15,6 @@
   
 ## Screenshot
 ![Screenshot](screenshot.png)
+
+### Implement
+In order for this theme to work, you need to add the Plugins "Advanced Custom Fields" and "Custom Post Type UI" to create the custom "portfolio" post type and adjust its fields. 
