@@ -1,4 +1,5 @@
 ###### This theme was built with Bootstrap Framework 
+##### Banners, widgets, etc. can be adjusted with the WordPress Customizer!
 
 # Includes
 * Custom Home Page
@@ -12,8 +13,11 @@
   * Text Widget
   * Category Widget
   
+#### HomePage
+  
  ![Screenshot](screenshot.png)
- 
+
+#### Blog Page
  ![Blog](blog.png)
  
 ## How to Use
