@@ -2,12 +2,20 @@
 This is the place where you can find all the projects I have worked on for fun. No business projects!
 
 ## WordPress Themes
-1. [Simple](WordPress%20Themes/Simple/)
-2. [Advanced](WordPress%20Themes/Advanced/)
-3. [TreehouseWP](WordPress%20Themes/Treehouse%20Project/)
-4. [PhotoGenik](WordPress%20Themes/PhotoGenik/)
-5. [myShop](WordPress%20Themes/myShop/)
-6. [BusinessTheme](WordPress%20Themes/BusinessTheme/)
+
+| Theme | Description |
+| --- | --- |
+| [Simple](WordPress%20Themes/Simple/) | Basic WP Theme with simple WP functionality |
+| [Advanced](WordPress%20Themes/Advanced/) | Another basic WP Theme with some more WP functionality |
+| [TreehouseWP](WordPress%20Themes/Treehouse%20Project/) | WP Theme created from following Treehouse course |
+| [PhotoGenik](WordPress%20Themes/PhotoGenik/) | Simple Photo Gallery WP Theme |
+| [myShop](WordPress%20Themes/myShop/) | eCommerce WP Theme with basic functionality |
+| [BusinessTheme](WordPress%20Themes/BusinessTheme/) | WP Business Theme with Blog and Widgets |
 
 ## Android Apps
-1. [InteractiveStory](https://github.com/MadBulgarian/InteractiveStory)
+
+| Theme | Description |
+| --- | --- |
+| [InteractiveStory](https://github.com/MadBulgarian/InteractiveStory) | Basic Interactive Story Game App with Decision Making |
+
+
