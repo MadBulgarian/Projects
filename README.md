@@ -14,7 +14,7 @@ This is the place where you can find all the projects I have worked on for fun. 
 
 ## Android Apps
 
-| Theme | Description |
+| App | Description |
 | --- | --- |
 | [InteractiveStory](https://github.com/MadBulgarian/InteractiveStory) | Basic Interactive Story Game App with Decision Making |
 
